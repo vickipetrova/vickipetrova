@@ -21,7 +21,7 @@
 - 🧠 I like solving problems for others and building stuff
 - ✈️ I've lived in 6 countries as part of my degree to work with businesses and connect with locals to gain professional experience and understand different cultures
 - 📫 How to reach me: shoot me a message on [twitter](https://twitter.com/vicki_petrovaa) or [LinkedIn](https://www.linkedin.com/in/petrova-v/) or send me an email at victoria.petrova@uni.minerva.edu
-- How to learn more about me: You can find my full resume in this repo and also see some of my projects on my github including:
+- How to learn more about me: You can find my full resume [here](https://github.com/vickipetrova/vickipetrova/blob/main/Resume%20Victoria%20Petrova%202023.docx.pdf) and also see some of my projects on my github including:
   - Roommate organizer: I led a team of 7 following the agile framework to build this web app 
   - Real Estate Database: designed this database and made it into a web app using Flask for a course 
   - Tic Tac Toe: AI bot that learned to play the game with a minimax algorithm
