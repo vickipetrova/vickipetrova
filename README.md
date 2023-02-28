@@ -35,4 +35,12 @@
   - I'm also interested in political science and governance and I'd love to transfer my technology knowledge in that context 
   - I’m 21 years old, born and raised in Sofia, Bulgaria 🇧🇬🦁
   - I like playing sports. I used to play football ⚽️ and table tennis 🏓 competitively
+
+
+
+<h1 align = "center">
+
+<!-- Credits: https://github.com/anuraghazra/github-readme-stats -->
+[![Vicki's GitHub stats](https://github-readme-stats.vercel.app/api?username=vickipetrova)](https://github.com/anuraghazra/github-readme-stats)
   
+</h1>
