@@ -15,13 +15,13 @@
 <h3 align="center">A Software Engineer/iOS developer based in San Francisco 🌁</h3>
 
 - 📚 I'm currently studying Computer Science, AI with a minor in Data Science (Modeling) at Minerva University and pushing myself to learn new technologies outside of my academic curriculum. My graduation date is in May, 2024
-- 💻 I'm looking for opportunities in Software Engineering, back-end or mobile development, and Product Development.
+- 💻 I'm looking for opportunities in Software Engineering, back-end or mobile development, and Product Development
 - 🌱 I’m currently working on Days Since a reverse time tracking iOS app while learning Swift and SwiftUI. Check it out [here](https://apps.apple.com/us/app/days-since-track-memories/id1634218216)
 - 🔥 I'm passionate about making technology that serves people 
 - 🧠 I like solving problems for others and building stuff
 - ✈️ I've lived in 6 countries as part of my degree to work with businesses and connect with locals to gain professional experience and understand different cultures
-- 📫 How to reach me: shoot me a message on [twitter](https://twitter.com/vicki_petrovaa) or [LinkedIn](https://www.linkedin.com/in/petrova-v/) or send me an email at victoria.petrova@uni.minerva.edu
-- How to learn more about me: You can find my full resume [here](https://github.com/vickipetrova/vickipetrova/blob/main/Resume%20Victoria%20Petrova%202023.docx.pdf) and also see some of my projects on my github.
+- 📫 How to reach me: shoot me a message on [Twitter](https://twitter.com/vicki_petrovaa) or [LinkedIn](https://www.linkedin.com/in/petrova-v/) or send me an email at victoria.petrova@uni.minerva.edu
+- How to learn more about me: You can find my full resume [here](https://github.com/vickipetrova/vickipetrova/blob/main/Resume%20Victoria%20Petrova%202023.docx.pdf) and also see some of my projects on my github
 - ⚡ My skills include:
   - Python, Swift, SwiftUI, Flask, HTML, CSS, SQLite, SQL Alchemy, Prototyping
   - Leadership, Project Management, Agile framework, Teaching, Curriculum Development, Proactive, Communication
