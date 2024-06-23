@@ -14,8 +14,9 @@
 <h1 align="center">Hi there 👋 I'm Vicki Petrova</h1>
 <h3 align="center">A Software Engineer/iOS developer based in San Francisco 🌁</h3>
 
-- 📚 I'm currently studying Computer Science & AI with a minor in Data Science at Minerva University and pushing myself to learn new technologies outside of my academic curriculum. My graduation date is in May, 2024
-- 💻 I'm looking for opportunities in Software Engineering, back-end or mobile development, and Product Development
+- 📚 I'm currently doing a Masters in Management at the University of Cambridge. 
+- 🎓 I have a BSc in Computer Science & AI with a minor in Economics at Minerva University. 
+- 💻 I'm looking for opportunities in Software Engineering, back-end or mobile development, and Product Development or Consulting. 
 - 🌱 I’m currently working on Days Since a reverse time tracking iOS app while learning Swift and SwiftUI. Check it out [here](https://apps.apple.com/us/app/days-since-track-memories/id1634218216)
 - 🔥 I'm passionate about making technology that serves people 
 - 🧠 I like solving problems for others and building stuff
@@ -23,11 +24,11 @@
 - 📫 How to reach me: shoot me a message on [Twitter](https://twitter.com/vicki_petrovaa) or [LinkedIn](https://www.linkedin.com/in/petrova-v/) or send me an email at victoria.petrova@uni.minerva.edu
 - How to learn more about me: You can find my full resume [here](https://github.com/vickipetrova/vickipetrova/blob/main/Resume%20Victoria%20Petrova%202023.docx.pdf) and also see some of my projects on my github
 - ⚡ My skills include:
-  - Python, Swift, SwiftUI, Flask, HTML, CSS, SQLite, SQL Alchemy, Prototyping
+  - Python, Swift, SwiftUI, Java, Kafka, Flask, HTML, CSS, SQLite, Prototyping
   - Leadership, Project Management, Agile framework, Teaching, Curriculum Development, Proactive, Communication
-- 😄 Fun facts:
-  - I’m 21 years old, born and raised in Sofia, Bulgaria 🇧🇬🦁
-  - Looking forward to participating in Apple's Student Challenge in 2023 
+- 😄 Other stuff:
+  - Born and raised in Sofia, Bulgaria 🇧🇬🦁
+  - Looking forward to participating in Apple's Student Challenge in 2024 
   - Excited for WWDC 
   - I'm also interested in political science and governance and I'd love to transfer my technology knowledge in that context 
   - I like playing sports. I used to play football ⚽️ and table tennis 🏓 competitively
