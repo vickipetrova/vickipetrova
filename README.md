@@ -12,27 +12,20 @@
 -->
 
 <h1 align="center">Hi there 👋 I'm Vicki Petrova</h1>
-<h3 align="center">A Software Engineer/iOS developer based in San Francisco 🌁</h3>
+<h3 align="center">building stuff with tech</h3>
 
-- 📚 I'm currently doing a Masters in Management at the University of Cambridge. 
-- 🎓 I have a BSc in Computer Science & AI with a minor in Economics at Minerva University. 
-- 💻 I'm looking for opportunities in Software Engineering, back-end or mobile development, and Product Development or Consulting. 
-- 🌱 I’m currently working on Days Since a reverse time tracking iOS app while learning Swift and SwiftUI. Check it out [here](https://apps.apple.com/us/app/days-since-track-memories/id1634218216)
-- 🔥 I'm passionate about making technology that serves people 
+-  2025 Apple SSC Distinguished Winner
+- 💻 ex SWE @Uber
+- 📚 Masters in Management @University of Cambridge 
+- 🎓 BSc in CS&AI + minor in Econ @Minerva University
+- From Bulgaria 🇧🇬🦁
+- 🌱 Projects:
+  - [Days Since](https://apps.apple.com/us/app/days-since-track-memories/id1634218216) a reverse time tracking iOS app
+  - [Posture Pal](https://apps.apple.com/bg/app/posture-pal-improve-alert/id1590316152) iOS app to improve your posture with the help of your AirPods
+- 🔥 I'm passionate about using tech to elevate human potential
 - 🧠 I like solving problems for others and building stuff
-- ✈️ I've lived in 6 countries as part of my degree to work with businesses and connect with locals to gain professional experience and understand different cultures
-- 📫 How to reach me: shoot me a message on [Twitter](https://twitter.com/vicki_petrovaa) or [LinkedIn](https://www.linkedin.com/in/petrova-v/) or send me an email at victoria.petrova@uni.minerva.edu
-- How to learn more about me: You can find my full resume [here](https://github.com/vickipetrova/vickipetrova/blob/main/Resume%20Victoria%20Petrova%202023.docx.pdf) and also see some of my projects on my github
-- ⚡ My skills include:
-  - Python, Swift, SwiftUI, Java, Kafka, Flask, HTML, CSS, SQLite, Prototyping
-  - Leadership, Project Management, Agile framework, Teaching, Curriculum Development, Proactive, Communication
-- 😄 Other stuff:
-  - Born and raised in Sofia, Bulgaria 🇧🇬🦁
-  - Looking forward to participating in Apple's Student Challenge in 2024 
-  - Excited for WWDC 
-  - I'm also interested in political science and governance and I'd love to transfer my technology knowledge in that context 
-  - I like playing sports. I used to play football ⚽️ and table tennis 🏓 competitively
-
+- 📫 To reach me DM me on [Twitter](https://twitter.com/vicki_petrovaa) or [LinkedIn](https://www.linkedin.com/in/petrova-v/)
+- ⚡ My skills include: backend and mobile + prototyping
 
 
 <h1 align = "center">
