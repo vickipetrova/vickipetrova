@@ -31,6 +31,6 @@
 <h1 align = "center">
 
 <!-- Credits: https://github.com/anuraghazra/github-readme-stats -->
-[![Vicki's GitHub stats](https://github-readme-stats.vercel.app/api?username=vickipetrova)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Vicki's GitHub stats](https://github-readme-stats.vercel.app/api?username=vickipetrova)](https://github.com/anuraghazra/github-readme-stats)  -->
   
 </h1>
