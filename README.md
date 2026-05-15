@@ -14,18 +14,16 @@
 <h1 align="center">Hi there 👋 I'm Vicki Petrova</h1>
 <h3 align="center">building stuff with tech</h3>
 
+- fde (echo), ex SWE @Uber, from Bulgaria 🇧🇬🦁
+- I'm passionate about using tech to elevate human potential
+- Skills: rapid prototyping, iOS/Swift, full-stack, AI/ML, data engineering
 -  2025 Apple SSC Distinguished Winner
-- 💻 ex SWE @Uber
-- 📚 Masters in Management @University of Cambridge 
-- 🎓 BSc in CS&AI + minor in Econ @Minerva University
-- From Bulgaria 🇧🇬🦁
-- 🌱 Projects:
+- Masters @University of Cambridge & BSc @Minerva University
+- Projects:
   - [Days Since](https://apps.apple.com/us/app/days-since-track-memories/id1634218216) a reverse time tracking iOS app
   - [Posture Pal](https://apps.apple.com/bg/app/posture-pal-improve-alert/id1590316152) iOS app to improve your posture with the help of your AirPods
-- 🔥 I'm passionate about using tech to elevate human potential
-- 🧠 I like solving problems for others and building stuff
-- 📫 To reach me DM me on [Twitter](https://twitter.com/vicki_petrovaa) or [LinkedIn](https://www.linkedin.com/in/petrova-v/)
-- ⚡ My skills include: backend and mobile + prototyping
+  - [Personal Website](https://www.vickipetrova.com) has many more
+- To reach me DM me on [Twitter](https://twitter.com/vicki_petrovaa) or [LinkedIn](https://www.linkedin.com/in/petrova-v/)
 
 
 <h1 align = "center">
