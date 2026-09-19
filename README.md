@@ -12,7 +12,7 @@
 -->
 
 <h1 align="center">Hi there 👋 I'm Vicki Petrova</h1>
-<h3 align="center">building stuff with tech</h3>
+<h3 align="center">solving hard problems</h3>
 
 - fde (echo), ex SWE @Uber, from Bulgaria 🇧🇬🦁
 - I'm passionate about using tech to elevate human potential
